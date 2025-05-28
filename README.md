@@ -1,9 +1,24 @@
 # Image_2D_Transformations
 
-This project demonstrates basic 2D geometric transformations on an image using Python and OpenCV. The transformations include:
+This project demonstrates various 2D geometric transformations applied to digital images using Python and OpenCV.
 
-- Translation  
-- Rotation  
-- Scaling  
-- Shearing  
-- Reflection  
+---
+
+## Aim
+
+Perform the following 2D transformations on an image:
+1. Translation  
+2. Rotation  
+3. Scaling  
+4. Shearing  
+5. Reflection
+
+---
+
+## Technologies Used
+
+- Python 3.x  
+- OpenCV  
+- NumPy  
+- Matplotlib (optional for visualization)
+
